@@ -1,7 +1,7 @@
 % Prrashanthh
-% November 30 2018
+% December 13 2018
 % flang.m
-%Assigment 3
+%Graduate Project
 % M Script that creates a single delay  with the delay time ocilating from either 0-3 ms or 0-15 ms at 0.1 - 5 Hz
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all;
